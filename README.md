@@ -1,12 +1,12 @@
-# _{Portfolio}_
+# _Portfolio_
 
-#### _{HTML, CSS, Bootstrap Exercise for Epicodus}, {08/25/2019}_
+#### _HTML, CSS, Bootstrap Exercise for Epicodus, 08/25/2019_
 
-#### By _**{Kennedy Martin}**_
+#### By _**Kennedy Martin**_
 
 ## Description
 
-_{This portfolio presents facts about Kennedy Martin's interests & background. It also showcases projects that she has completed. This portfolio is an exercise in HTML, CSS, & Bootstrap.}_
+_This portfolio presents facts about Kennedy Martin's interests & background. It also showcases projects that she has completed. This portfolio is an exercise in HTML, CSS, & Bootstrap._
 
 ## Setup/Installation Requirements
 
@@ -14,14 +14,14 @@ _{This portfolio presents facts about Kennedy Martin's interests & background. I
 
 ## Technologies Used
 
-_{HTML}_
+_HTML_
 
-_{CSS}_
+_CSS_
 
-_{Bootstrap}_
+_Bootstrap_
 
 ### License
 
-Copyright (c) 2019 **_{Kennedy Martin}_**
+Copyright (c) 2019 **_Kennedy Martin_**
 
-*{This software is licensed under the MIT license.}
+*This software is licensed under the MIT license.*
