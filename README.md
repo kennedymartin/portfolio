@@ -6,11 +6,12 @@
 
 ## Description
 
-_This portfolio presents facts about Kennedy Martin's interests & background. It also showcases projects that she has completed. This portfolio is an exercise in HTML, CSS, & Bootstrap._
+_This portfolio presents facts about Kennedy Martin's interests & background. It also showcases projects that she has completed. This project is an exercise in HTML, CSS, & Bootstrap. Link to portfolio site [here](https://github.com/kennedymartin/portfolio)._
 
 ## Setup/Installation Requirements
 
 * _Clone this repository._
+* _Open file named "index.html" in a web browser of your choice._
 
 ## Technologies Used
 

@@ -3,6 +3,7 @@ img {
   width: 25%;
   float: left;
   padding: 15px;
+  /* border: 2px solid black; */
 }
 
 .places {
@@ -15,9 +16,8 @@ body {
 
 .box {
   margin: 12px;
-  border: 2px solid #3498DB;
+  border: 2px dotted #3498DB;
   padding: 10px;
   background-color: #D7BDE2;
   font-family: monospace;
-
 }
