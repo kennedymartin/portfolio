@@ -6,7 +6,7 @@
 
 ## Description
 
-_This portfolio presents facts about Kennedy Martin's interests & background. It also showcases projects that she has completed. This project is an exercise in HTML, CSS, & Bootstrap. Link to portfolio site [here](https://github.com/kennedymartin/portfolio)._
+_This portfolio presents facts about Kennedy Martin's interests & background. It also showcases projects that she has completed. This project is an exercise in HTML, CSS, & Bootstrap. Link to portfolio site [here](https://kennedymartin.github.io/portfolio/)._
 
 ## Setup/Installation Requirements
 
