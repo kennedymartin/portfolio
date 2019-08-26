@@ -15,6 +15,7 @@ body {
 
 body ol {
   list-style-type: upper-roman;
+  display: inline-block;
 }
 
 .box {
